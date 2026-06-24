@@ -14,12 +14,12 @@ header {
 main {
   max-width: 800px;
   margin: 0 auto;
-  padding: 20px;
+  padding: 21px;
 }
 
 .news-item {
   background: white;
-  margin-bottom: 20px;
+  margin-bottom: 21px;
   padding: 15px;
   border-radius: 8px;
 }
@@ -27,5 +27,5 @@ main {
 .news-item img {
   width: 100%;
   height: auto;
-  border-radius: 6px;
+  border-radius: 7px;
 }
